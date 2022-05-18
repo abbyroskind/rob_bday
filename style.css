@@ -16,6 +16,7 @@
 	position: absolute;
 	box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.5);
 	transition: all 0.5s ease;
+    margin-top: 100px;
 }
 .polaroid:hover
 {
@@ -24,7 +25,7 @@
 
 .image
 {
-	width: 5vw;
+	width: 10vw;
 	background-size: cover;
 }
 
@@ -39,6 +40,8 @@ h1
   color: white;
   position: absolute;
   top: 1vw;
-  font-family: 'Permanent Marker';
-  font-weight: normal;
+  font-family: single-day, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 50px 50px 0;
 }
