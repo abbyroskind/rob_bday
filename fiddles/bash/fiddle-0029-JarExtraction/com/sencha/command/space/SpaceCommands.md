@@ -1,1 +1,0 @@
-This category provides commands for interacting with Sencha Web Application Manager

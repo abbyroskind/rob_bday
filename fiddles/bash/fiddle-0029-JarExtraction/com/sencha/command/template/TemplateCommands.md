@@ -1,1 +1,0 @@
-This category provides commands to work with templates
