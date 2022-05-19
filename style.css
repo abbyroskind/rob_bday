@@ -45,3 +45,22 @@ h1
   font-style: normal;
   margin: 50px 50px 0;
 }
+
+@media (min-width: 320px) {
+	h1 {
+		font-size: 25px;
+	}
+	#polaroidGallery {
+		position: absolute;
+		top: 200px;
+	}
+}
+
+@media (min-width: 500px) {
+	h1 {
+		font-size: 30px;
+	}
+	#polaroidGallery {
+		top: 50px;
+	}
+}
